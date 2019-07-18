@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Darren Shen dshen209.can@gmail.com
 
 # THANKS
 
